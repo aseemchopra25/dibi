@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/dibi/static/css/main.31b6137c.chunk.css",
-    "main.js": "/dibi/static/js/main.3818f020.chunk.js",
-    "main.js.map": "/dibi/static/js/main.3818f020.chunk.js.map",
+    "main.js": "/dibi/static/js/main.006967e5.chunk.js",
+    "main.js.map": "/dibi/static/js/main.006967e5.chunk.js.map",
     "runtime-main.js": "/dibi/static/js/runtime-main.7f832aae.js",
     "runtime-main.js.map": "/dibi/static/js/runtime-main.7f832aae.js.map",
-    "static/js/2.95969962.chunk.js": "/dibi/static/js/2.95969962.chunk.js",
-    "static/js/2.95969962.chunk.js.map": "/dibi/static/js/2.95969962.chunk.js.map",
+    "static/js/2.7b3ef4a6.chunk.js": "/dibi/static/js/2.7b3ef4a6.chunk.js",
+    "static/js/2.7b3ef4a6.chunk.js.map": "/dibi/static/js/2.7b3ef4a6.chunk.js.map",
     "index.html": "/dibi/index.html",
-    "precache-manifest.a2c6b553b0dacb485367cf475de8c87b.js": "/dibi/precache-manifest.a2c6b553b0dacb485367cf475de8c87b.js",
+    "precache-manifest.7e96444aa276e0f831a0673c97d4016f.js": "/dibi/precache-manifest.7e96444aa276e0f831a0673c97d4016f.js",
     "service-worker.js": "/dibi/service-worker.js",
     "static/css/main.31b6137c.chunk.css.map": "/dibi/static/css/main.31b6137c.chunk.css.map",
-    "static/js/2.95969962.chunk.js.LICENSE.txt": "/dibi/static/js/2.95969962.chunk.js.LICENSE.txt",
+    "static/js/2.7b3ef4a6.chunk.js.LICENSE.txt": "/dibi/static/js/2.7b3ef4a6.chunk.js.LICENSE.txt",
     "static/media/AvenirNextLTPro-Demi.otf": "/dibi/static/media/AvenirNextLTPro-Demi.de28f71e.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.7f832aae.js",
-    "static/js/2.95969962.chunk.js",
+    "static/js/2.7b3ef4a6.chunk.js",
     "static/css/main.31b6137c.chunk.css",
-    "static/js/main.3818f020.chunk.js"
+    "static/js/main.006967e5.chunk.js"
   ]
 }
