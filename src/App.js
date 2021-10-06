@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import sketch from './sketch';
 import p5 from 'p5';
-const TEXT = 'Happy Birthday Dibi';
+const TEXT = 'Happy Birthday Divya';
 
 const App = () => {
   const canvasRef = React.useRef(null)
