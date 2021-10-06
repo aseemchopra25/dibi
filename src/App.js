@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import sketch from './sketch';
 import p5 from 'p5';
-import ParticlesBg from 'particles-bg';
 const TEXT = 'Happy Birthday Dibi';
 
 const App = () => {
@@ -18,7 +17,6 @@ const App = () => {
   return (
     <div className="main">
       <div ref={canvasRef} />
-      <ParticlesBg color="#000" num={2000} type="lines" bg={true} />
     </div >
   )
 }
